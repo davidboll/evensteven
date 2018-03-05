@@ -23,7 +23,7 @@ An webbasesd application that allows a user to sign up, cretate groups and split
 ## Acknowledgments
 
 * [Start Bootstrap](https://startbootstrap.com/template-overviews/simple-sidebar/) - How to implement a sidebar
-* [SplitWise] (https://github.com/brianliou/Split) - Inspiration
+* [SplitWise](https://github.com/brianliou/Split) - Initial inspiration
 * [Craft Academy](https://craftacademy.se/)[GitHub](https://github.com/CraftAcademy)
  For merging our pull-requests
  
