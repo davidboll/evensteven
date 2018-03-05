@@ -1,24 +1,30 @@
-# README
+# Even Steven
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Craft Academy Midcourse project application.
+The web application can be found here [EvenSteven](https://evensteveninc.herokuapp.com/)
 
-Things you may want to cover:
+## Description
+An webbasesd application that allows a user to sign up, cretate groups and split bills.
 
-* Ruby version
+### Upcomming features 
+* Pay-in-app via PayPal
+* Invite people to groups
 
-* System dependencies
+## Built With
 
-* Configuration
+* [Ruby on rails](http://rubyonrails.org/) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
+* [Heroku](https://www.heroku.com/) - A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+## Authors
 
-* Database creation
+* **David** - [GitHub](https://github.com/davidboll)
+* **Holger** - [GitHub](https://github.com/holgertidemand)
+* **Jade** - [GitHub](https://github.com/jyuw)
 
-* Database initialization
+## Acknowledgments
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Start Bootstrap](https://startbootstrap.com/template-overviews/simple-sidebar/) - How to implement a sidebar
+* [SplitWise] (https://github.com/brianliou/Split) - Inspiration
+* [Craft Academy](https://craftacademy.se/)[GitHub](https://github.com/CraftAcademy)
+ For merging our pull-requests
+ 
+[![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/evensteven/badge.svg?branch=develop)](https://coveralls.io/github/CraftAcademy/evensteven?branch=develop) [![Build Status](https://travis-ci.org/CraftAcademy/evensteven.svg?branch=develop)](https://travis-ci.org/CraftAcademy/evensteven)
